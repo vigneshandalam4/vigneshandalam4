@@ -1,7 +1,3 @@
-Here's a **professional and engaging README** for your GitHub profile:  
-
----
-
 # 👋 Hi, I'm Vignesh Andalam!  
 
 🚀 **Aspiring Software Engineer** | 💡 **Full-Stack Developer** | 🎯 **Problem Solver**  
@@ -28,11 +24,4 @@ Here's a **professional and engaging README** for your GitHub profile:
 ### 📫 How to Reach Me  
 📩 **Email:** vigneshandalam4@gmail.com  
 💼 **LinkedIn:** [Vignesh Andalam](https://www.linkedin.com/in/vigneshandalam4/)  
-🚀 **GitHub:** [av3077](https://github.com/vigneshandalam4)  
-
-### ⚡ Fun Fact  
-I’m a **national-level badminton player** 🏸 and a **tech enthusiast** who loves solving complex problems!  
-
----
-
-This will make your **GitHub profile stand out professionally** while still reflecting your personality. Let me know if you'd like any modifications! 🚀
+🚀 **GitHub:** [Vignesh Andalam](https://github.com/vigneshandalam4)  
